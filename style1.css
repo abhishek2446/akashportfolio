@@ -13,7 +13,7 @@
     --bg-color: #fff;
     --snd-bg-color: #d5fdf9;
     --text-color: #000;
-    --main-color: rgb(18, 18, 151);
+    --main-color: gray;
 }
 
 html {
@@ -686,3 +686,4 @@ span {
         font-size: 50%;
     }
 }
+
